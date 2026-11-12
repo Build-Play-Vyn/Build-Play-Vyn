@@ -141,6 +141,15 @@ An engineering thesis project focused on developing an automated vessel draft su
 - Vessel displacement and cargo-mass calculation.
 - Centralized data processing and monitoring.
 
+### 6. Student Information System
+
+**Technologies:** Python, Database Management, CRUD Operations
+
+- Developed a Python-based Student Information System for managing student records.
+- Implemented functions for adding, viewing, updating, and deleting student information.
+- Organized student data to support efficient record management and retrieval.
+- Applied Python programming concepts to develop a practical information management application.
+
 ---
 
 ## 📜 Certifications
