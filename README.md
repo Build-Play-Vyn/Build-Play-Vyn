@@ -154,6 +154,8 @@ An engineering thesis project focused on developing an automated vessel draft su
 
 ## 📜 Certifications
 
+📂 [View All My Certificates](https://github.com/Build-Play-Vyn/Certificates)
+
 Currently developing and expanding my technical knowledge in:
 
 - Embedded Systems Development
