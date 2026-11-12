@@ -150,9 +150,7 @@ Currently developing and expanding my technical knowledge in:
 - Embedded Systems Development
 - Internet of Things (IoT)
 - Computer Networking
-- Python Programming
-- Microcontroller Programming
-- Backend and Mobile Application Development
+
 
 *Verified certifications will be added here as they are obtained.*
 
