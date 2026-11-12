@@ -176,7 +176,7 @@ Currently developing and expanding my technical knowledge in:
 ## 📫 Connect With Me
 
 - **GitHub:** Build-Play-Vyn(https://github.com/Build-Play-Vyn)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/mervyn-regala-64ba72330/)
+- **LinkedIn:** [mervyn-regala-64ba72330](https://www.linkedin.com/in/mervyn-regala-64ba72330/)
 - **Email:** mervyn04regala@gmail.com
 
 ---
